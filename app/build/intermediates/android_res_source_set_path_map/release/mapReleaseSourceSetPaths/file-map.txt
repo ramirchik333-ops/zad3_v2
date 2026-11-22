@@ -1,0 +1,8 @@
+com.example.madventuretv.app-pngs-0 C:\Users\user\AndroidStudioProjects\MadventureTv\app\build\generated\res\pngs\release
+com.example.madventuretv.app-updated_navigation_xml-1 C:\Users\user\AndroidStudioProjects\MadventureTv\app\build\generated\updated_navigation_xml\release
+com.example.madventuretv.app-packageReleaseResources-2 C:\Users\user\AndroidStudioProjects\MadventureTv\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.example.madventuretv.app-packageReleaseResources-3 C:\Users\user\AndroidStudioProjects\MadventureTv\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.example.madventuretv.app-release-4 C:\Users\user\AndroidStudioProjects\MadventureTv\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.example.madventuretv.app-main-5 C:\Users\user\AndroidStudioProjects\MadventureTv\app\src\main\res
+com.example.madventuretv.app-release-6 C:\Users\user\AndroidStudioProjects\MadventureTv\app\src\release\res
+gradleHome-0 C:\Users\user\AndroidStudioProjects\.gradle-home

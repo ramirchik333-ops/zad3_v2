@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+
+    <!-- внешнее кольцо -->
+    <path
+        android:pathData="M48,8 A40,40 0 1,0 48,88 A40,40 0 1,0 48,8 Z"
+        android:strokeColor="@color/aquamarine"
+        android:strokeWidth="3"
+        android:fillColor="#00000000" />
+
+    <!-- внутреннее кольцо -->
+    <path
+        android:pathData="M48,18 A30,30 0 1,0 48,78 A30,30 0 1,0 48,18 Z"
+        android:strokeColor="#6619E3B8"
+        android:strokeWidth="1"
+        android:fillColor="#00000000" />
+
+    <!-- стрелка компаса -->
+    <path
+        android:pathData="M48,22 L60,48 L48,74 L36,48 Z"
+        android:fillColor="@color/aquamarine" />
+    <path
+        android:pathData="M48,34 L53,48 L48,62 L43,48 Z"
+        android:fillColor="@color/black" />
+
+    <!-- центр -->
+    <path
+        android:pathData="M48,44 A4,4 0 1,0 48,52 A4,4 0 1,0 48,44 Z"
+        android:fillColor="@color/aquamarine" />
+
+    <!-- северный маркер -->
+    <path
+        android:pathData="M48,0 L52,6 L44,6 Z"
+        android:fillColor="@color/aquamarine" />
+</vector>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- Управление пультом, тачскрин не требуется -->
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+
+    <!-- Приложение предназначено для Android TV -->
+    <uses-feature
+        android:name="android.software.leanback"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:banner="@drawable/banner"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Madventure">
+
+        <!-- Загрузочный экран (splash) -->
+        <activity
+            android:name=".ui.SplashActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Экран авторизации -->
+        <activity
+            android:name=".ui.SignInActivity"
+            android:exported="false"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" />
+
+        <!-- Основной экран: каналы, поиск, сетка фильмов -->
+        <activity
+            android:name=".ui.MainActivity"
+            android:exported="false"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" />
+
+    </application>
+
+</manifest>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Madventure TV</string>
+    <string name="brand">MADVENTURE</string>
+    <string name="tagline">Rediscover the world</string>
+
+    <string name="sign_in">Р’С…РѕРґ РІ Р°РєРєР°СѓРЅС‚</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">РџР°СЂРѕР»СЊ</string>
+    <string name="sign_in_button">Р’РѕР№С‚Рё</string>
+    <string name="error_title">РћС€РёР±РєР°</string>
+    <string name="error_empty_fields">РЈ РІР°СЃ РµСЃС‚СЊ РїСѓСЃС‚С‹Рµ РїРѕР»СЏ</string>
+    <string name="ok">OK</string>
+
+    <string name="channels_title">РљРёРЅРѕРєР°РЅР°Р»С‹</string>
+    <string name="channels_subtitle">РљР°РЅР°Р» вЂ” СЌС‚Рѕ Р¶Р°РЅСЂ. Р’С‹Р±РµСЂРёС‚Рµ С„РёР»СЊРј Рё РѕС‚РєСЂРѕР№С‚Рµ РєР°СЂС‚РѕС‡РєСѓ.</string>
+    <string name="search_hint">РџРѕРёСЃРє С„РёР»СЊРјР° РїРѕ РЅР°Р·РІР°РЅРёСЋ</string>
+    <string name="search_button">РќР°Р№С‚Рё</string>
+    <string name="details">РџРѕРґСЂРѕР±РЅРµРµ</string>
+    <string name="loading">Р—Р°РіСЂСѓР·РєР°вЂ¦</string>
+    <string name="empty">РќРёС‡РµРіРѕ РЅРµ РЅР°Р№РґРµРЅРѕ</string>
+    <string name="error_api_key">OMDb отклонил ключ. Проверьте ApiConfig.OMDB_API_KEY.</string>
+    <string name="error_network">РќРµ СѓРґР°Р»РѕСЃСЊ Р·Р°РіСЂСѓР·РёС‚СЊ РґР°РЅРЅС‹Рµ. РџСЂРѕРІРµСЂСЊС‚Рµ РїРѕРґРєР»СЋС‡РµРЅРёРµ Рє РёРЅС‚РµСЂРЅРµС‚Сѓ.</string>
+    <string name="demo_badge">Р”Р•РњРћ</string>
+    <string name="demo_hint">Р”РµРјРѕ-СЂРµР¶РёРј. Р’СЃС‚Р°РІСЊС‚Рµ РєР»СЋС‡ OMDb РІ data/ApiConfig.kt вЂ” Рё РєР°РЅР°Р»С‹ РЅР°С‡РЅСѓС‚ Р·Р°РіСЂСѓР¶Р°С‚СЊ С„РёР»СЊРјС‹ РёР· API.</string>
+    <string name="back">РќР°Р·Р°Рґ</string>
+    <string name="close">Р—Р°РєСЂС‹С‚СЊ</string>
+    <string name="search_results">Р РµР·СѓР»СЊС‚Р°С‚С‹ РїРѕРёСЃРєР°: %1$s</string>
+    <string name="channel_label">РљР°РЅР°Р»: %1$s</string>
+    <string name="year_label">Р“РѕРґ</string>
+    <string name="rating_label">Р РµР№С‚РёРЅРі</string>
+    <string name="runtime_label">Р”Р»РёС‚РµР»СЊРЅРѕСЃС‚СЊ</string>
+    <string name="genre_label">Р–Р°РЅСЂ</string>
+    <string name="director_label">Р РµР¶РёСЃСЃС‘СЂ</string>
+    <string name="actors_label">Р’ СЂРѕР»СЏС…</string>
+    <string name="poster_desc">РџРѕСЃС‚РµСЂ С„РёР»СЊРјР°</string>
+    <string name="sign_in_subtitle">Войдите, чтобы открыть подборки фильмов</string>
+    <string name="sign_in_hint">Демо-вход: подойдут любые заполненные email и пароль.</string>
+    <string name="tv_footer">Android TV · MADVENTURE</string>
+    <string name="demo_badge_text">ДЕМО-КАТАЛОГ · БЕЗ КЛЮЧА OMDb</string>
+    <string name="back_hint">Кнопка BACK закроет карточку</string></resources>
+
+

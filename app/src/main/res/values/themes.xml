@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Madventure" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/aquamarine</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/aquamarine</item>
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <item name="android:colorBackground">@color/black</item>
+    </style>
+
+    <style name="BrandText">
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:letterSpacing">0.18</item>
+        <item name="android:textColor">@color/aquamarine</item>
+    </style>
+
+    <style name="ScreenTitle">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/aquamarine</item>
+        <item name="android:textSize">34sp</item>
+    </style>
+
+    <style name="Widget.Madventure.EditText" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@drawable/bg_field</item>
+        <item name="android:textColor">@color/aquamarine</item>
+        <item name="android:textColorHint">@color/text_muted</item>
+        <item name="android:textColorHighlight">@color/aquamarine</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingStart">2dp</item>
+        <item name="android:paddingEnd">2dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textCursorDrawable">@drawable/cursor_teal</item>
+    </style>
+
+    <style name="Widget.Madventure.Button" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/bg_button</item>
+        <item name="android:textColor">@color/aquamarine_deep</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:minHeight">44dp</item>
+        <item name="android:paddingStart">24dp</item>
+        <item name="android:paddingEnd">24dp</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+</resources>
+
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF05090A</color>
+    <color name="bg">#FF070D0C</color>
+    <color name="surface">#FF111917</color>
+    <color name="surface_high">#FF1A2422</color>
+    <color name="card">#FF141C1A</color>
+    <color name="card_focus">#FF22302C</color>
+    <color name="aquamarine">#FF19E3B8</color>
+    <color name="aquamarine_dim">#FF0FA98A</color>
+    <color name="aquamarine_deep">#FF04241D</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_secondary">#FFB8C6C2</color>
+    <color name="text_muted">#FF7E8E8A</color>
+    <color name="stroke">#FF26312F</color>
+    <color name="stroke_soft">#1AFFFFFF</color>
+    <color name="scrim">#F2050A09</color>
+    <color name="error">#FFFF6B6B</color>
+</resources>
